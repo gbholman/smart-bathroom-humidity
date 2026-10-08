@@ -1,0 +1,16 @@
+# Firmware / Build Tools
+.pio/
+.vscode/
+*.bin
+*.elf
+*.hex
+
+# Python & Virtual Environments
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Database & Runtime
+backend/data/*.db
+*.log
